@@ -31,7 +31,7 @@ def main2():
     client.Quit()
 
 
-bot = telebot.TeleBot('5609999349:AAHm46TCL3_6pAqEx_2PPGXGlsvqSxiSSWY')
+bot = telebot.TeleBot('')
 
 
 @bot.message_handler(commands=['start'])
